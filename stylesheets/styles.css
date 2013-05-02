@@ -193,6 +193,13 @@ footer {
 	box-shadow: 1px 1px 10px #909090;
 }
 
+.inlinelogo {
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	border-radius: 2px;
+	margin: 10px;
+}
+
 .justify {
 	text-align: justify;
 }
