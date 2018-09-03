@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/mhausenblas
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://mhausenblas.info
+  * I am mhausenblas (https://keybase.io/mhausenblas) on keybase.
+  * I have a public key with fingerprint A918 1B33 A3C7 CFE7 63A8  F202 20FC 3EDD ED69 FE31
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01206e94e486830971367db0cf8dc3e00345b6a3ace52f5b3fb5506156539dbdf76e0a",
+      "fingerprint": "a9181b33a3c7cfe763a8f20220fc3edded69fe31",
+      "host": "keybase.io",
+      "key_id": "20fc3edded69fe31",
+      "kid": "0101a6cc155c9d9de93513d1f26bcf3ff6aa75276ad9a49f46017f81a58bef5cd3db0a",
+      "uid": "13803857284ff8b0ef393a9aba818719",
+      "username": "mhausenblas"
+    },
+    "service": {
+      "hostname": "mhausenblas.info",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1535945466,
+  "expire_in": 157680000,
+  "prev": "54bc92fdcbdc3df23a99a1bc81c679d305973454f17a441452d9b23b47955005",
+  "seqno": 57,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.77
+Comment: https://keybase.io/crypto
+
+yMN1AnicbVJtUBVVGL4X0OJLkTFCuYQuJqWAu3v27Mc1DMgGQpDEmfiwvJ3dPQur
+eC/dDz4Ec6BGJxOEhqloGhAcsoDISONjQL2CiXArzMQJpcYsoSl+OJABMdouk7/q
+/Dnznvd5n/M87/sOBHob/IxrFraMT6n3KeOwu8Fl2HW0Zb6UEG1yCWEuJfbixQvn
+y9jhtOxVZcJMkBRNslhgMMOzPCAFjgIsJ4ukpPCyBDBJAgaKLAJIwpBWoAgUEUKS
+pSALgSCLssKxmERENKGo1lxsL7CrVqdGiwSKp0QAEJA4ScEcCxCv0CRNk4rGKstY
+ZgUFA0orzLM59ApNnIgcOFa1aW9aYFmU9z/4h7pJCrGSREEoCbIgYwFACsiUQrOi
+pABFYRHiIM2xSBYQIygMS1KcwlMI8iJWoCQDzaSu27VIRwGeBDzkaJ5RFF4ksQIE
+gAQkIp7iOUrQgQ5st6J9WEPvy0NaZBXzkYM4EE1oiUJVwnpvdTP/BcWqVkW3VWC3
+OW2SLV/L5jmdBQ6zXu0sKdDhRVi0/EtkEVWrrLVTqyjEdodqsxJmSkNKTlVnpiCA
+AgMZlo0mcHGBascWVUdAjuVJ7ej/4EKNEjKiJNCKLInaKGWF1gwJiBIlnpJYTpAB
+CQVOGy+jUBxiGIqBtCyINBAZTtBmTEJCt/aa1UaYIafpRLkap0PNtSKny46JAxfc
+L/sYjH6GpUu89D0z+PkGPdy+zY1BhopdoQ3BfeWJ8ad/CSYHdw/W35obO9KkpA/U
+XG78ImTt4fxzu9WDTZ7Pgavlx7NV7/kf6/X62Kt+4id3+U7f3vN3PCmJXUn+Aulu
+nfU0v3iu03Srt7+5ffVvp0ze3WlTBUEp04f+ygjun03+uePpDPuDi8d6trbPLBkJ
+farh2ewhamRzXX5j35tLt4dX3WUGJor6z+9oNsO2vJAz021hkbMT95L3x1y4WVZ5
+uO9S0u3kx3LGv6qbG33JKyLzSFs8bVwZSdT4m7LwGp/Q55f2rHvHtGko99rpYH54
+/s/iJ9LqIx8NAymlCztCF+ZbY0zFvp6E8mi/wRe6RrNQTHhFmOejDu8t+ydTS6oP
+VfZUmX1SR6ITm/sCpzNDmY3iWEPEdyeXZw1cvzG3/lRH99U9Zq8/1rpufg+mfreW
+vW85GFC+Pf+Zv/tWdOTkdEf9MLVAmo4yZ4935nrSO+9/GwaHo/qr1W3Syuo49o7Y
+7qwYvurOvrjsgxrPpbLRt+mexy+vlzI2bDix6to3sKO1Kei67ZO5eObXB8aYbe8u
+nwt8w3Cv1h1XecXaVVs081x77Ot85u2ZnVJfwlv2sMky1yu2XPVkhKXuSnbLuM8j
+T379qXt+qGs1i+5mHD/zZchWY3jCq5uG4pYZQzMbfGPik6LGMtI+29NUe2NFqmld
+m0P+MH3jZHZCgM9oW/qJmVUB/wBLD7/S
+=u7hb
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mhausenblas
+
+==================================================================
