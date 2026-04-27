@@ -1,25 +1,21 @@
-<!doctype html>
-<html>
-
+<!DOCTYPE html>
+<html lang="en">
 <head>
-  <meta charset="utf-8">
-  <title>Michael Hausenblas</title>
-  <link rel="stylesheet" href="../stylesheets/styles.css">
-  <link rel="stylesheet" href="../stylesheets/pygment_trac.css">
-  <link rel="shortcut icon" href="/favicon.ico">
-  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+<meta charset="UTF-8">
+<title>Redirecting…</title>
 </head>
-
 <body>
-  <div class="wrapper">
-    <header>
-      <h1>Michael Hausenblas</h1>
-    </header>
-    <section>
-      <p>This page is under construction.</p>
-      <p><a href="/">Back to home</a></p>
-    </section>
-  </div>
+<p id="err" style="display:none;font-family:sans-serif">Missing artifact ID. Usage: <code>mhausenblas.info/c?ARTIFACT_ID</code></p>
+<script>
+(function() {
+  var id = window.location.search.substring(1);
+  if (id) {
+    window.location.replace('https://claude.ai/public/artifacts/' + encodeURIComponent(id));
+  } else {
+    document.getElementById('err').style.display = 'block';
+  }
+})();
+</script>
+<noscript><p style="font-family:sans-serif">JavaScript is required for this redirect.</p></noscript>
 </body>
-
 </html>
