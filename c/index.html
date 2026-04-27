@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Redirecting…</title>
+</head>
+<body>
+<p id="err" style="display:none;font-family:sans-serif">Missing artifact ID. Usage: <code>mhausenblas.info/c?ARTIFACT_ID</code></p>
+<script>
+(function() {
+  var id = window.location.search.substring(1);
+  if (id) {
+    window.location.replace('https://claude.ai/public/artifacts/' + encodeURIComponent(id));
+  } else {
+    document.getElementById('err').style.display = 'block';
+  }
+})();
+</script>
+<noscript><p style="font-family:sans-serif">JavaScript is required for this redirect.</p></noscript>
+</body>
+</html>
